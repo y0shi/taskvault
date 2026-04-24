@@ -1,6 +1,6 @@
 ---
-id: "TASK-001"
-title: "Find a cat sitter for worlds"
+id: TASK-001
+title: Find a cat sitter for worlds
 status: todo
 priority: medium
 created: 2026-04-16
